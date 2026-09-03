@@ -1,0 +1,7 @@
+torch
+numpy
+scipy
+opencv-python
+einops
+tqdm
+thop
